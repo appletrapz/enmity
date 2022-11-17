@@ -2,6 +2,12 @@
    "name": "AMOLED",
    "version": "1.0.0",
    "description": "A mostly pitch black theme with exceptions such as buttons being a bit lighter for convenience.",
+   "authors": [
+      {
+         "name": "eternal",
+         "id": "263689920210534400"
+      }
+   ],
    "theme_color_map": {
       "HEADER_PRIMARY": [
          "#FBFBFB",
@@ -123,6 +129,7 @@
       "PRIMARY_DARK_300": "#B6B6B6",
       "PRIMARY_DARK_360": "#C8C8C8",
       "PRIMARY_DARK_400": "#C8C8C8",
+      "PRIMARY_DARK_500": "#0c0c0c",
       "PRIMARY_DARK_600": "#000000",
       "PRIMARY_DARK_630": "#1f1f1f",
       "PRIMARY_DARK_700": "#000000",
